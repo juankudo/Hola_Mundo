@@ -20,5 +20,8 @@ public class Ejemplo {
         System.out.println("Ingresa tú nombre: ");
         nombre = leer.next();
         System.out.println("Hello World! Soy " + nombre + " y estoy programando en Java");
+        System.out.println("""
+       
+                                        """);
     }
 }
